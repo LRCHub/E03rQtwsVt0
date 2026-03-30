@@ -1,0 +1,15 @@
+# 新目鳥 – windshear
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Ascending 今 ふわっとしたの
+追い風の予報 syncing to the metronome
+Diving まだ霞む街の
+ストロボを陽炎に翳して
+Sailing 読むフラップの傾度
+またたくシグナル tracing on the taxiway
+Reaching 今フラットな空を
+夏の向こうへ焼き付けて！
+[drop]
+```
