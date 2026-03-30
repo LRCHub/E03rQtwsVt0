@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "windshear",
+  "base_artist": "新目鳥",
+  "createdAt": "2026-03-30T05:06:52.963658Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "windshear",
+      "artist": "新目鳥",
+      "has_synced": false,
+      "path": "select/pl_01_windshear_新目鳥.txt"
+    }
+  ]
+}
